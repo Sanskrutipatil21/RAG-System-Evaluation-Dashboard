@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="AI Hallucination & RAG Analytics Dashboard Banner" width="100%">
-</p>
+![AI Hallucination & RAG Analytics Dashboard Banner](Banner.png)
 
 <h1 align="center">🤖 RAG System Evaluation Dashboard</h1>
 
