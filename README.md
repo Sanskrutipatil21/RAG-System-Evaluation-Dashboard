@@ -150,14 +150,15 @@ Analyzes evaluation scenarios to understand query complexity, dataset coverage, 
 
 Provides detailed insights into document chunks used during retrieval, helping evaluate chunk quality, size, domain coverage, and token distribution.
 
-Key Visuals
-Total Chunks
-Average Tokens per Chunk
-Chunks by Domain
-Token Distribution
-Chunk Size Distribution
-Average Tokens by Domain
-Domain-wise Chunk Contribution
+- Key Visuals
+- Total Chunks
+- Average Tokens per Chunk
+- Chunks by Domain
+- Token Distribution
+- Chunk Size Distribution
+- Average Tokens by Domain
+- Domain-wise Chunk Contribution
+  
 ---
 
 # 📈 Key Performance Indicators (KPIs)
